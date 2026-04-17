@@ -1,0 +1,30 @@
+{
+  "images": [
+    {
+      "id": "b11844b2-9bbf-4002-b578-6757bf1f058a",
+      "originalName": "Screenshot 2026-04-11 at 10.11.48â¯PM.png",
+      "status": "completed",
+      "createdAt": "2026-04-17T12:42:21.503Z",
+      "variants": {
+        "original": {
+          "url": "/uploads/b11844b2-9bbf-4002-b578-6757bf1f058a/original.png",
+          "width": 1154,
+          "height": 570,
+          "size": 52409
+        },
+        "medium": {
+          "url": "/uploads/b11844b2-9bbf-4002-b578-6757bf1f058a/medium.png",
+          "width": 800,
+          "height": 395,
+          "size": 36493
+        },
+        "thumbnail": {
+          "url": "/uploads/b11844b2-9bbf-4002-b578-6757bf1f058a/thumbnail.png",
+          "width": 300,
+          "height": 148,
+          "size": 9594
+        }
+      }
+    }
+  ]
+}
